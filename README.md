@@ -8,4 +8,4 @@ I'm a person with a big passion to develop, with these projects you will see som
 
 ## My contacts
 
-![twitter](https://github.com/danielchk/danielchk/blob/main/twitter.png)
+![twitter](https://github.com/danielchk/danielchk/blob/main/twitter.png) ![Gmail](https://github.com/danielchk/danielchk/blob/main/gmail.png) [face](https://github.com/danielchk/danielchk/blob/main/Face.png) ![linkedin](https://github.com/danielchk/danielchk/blob/main/linkedin.png)
