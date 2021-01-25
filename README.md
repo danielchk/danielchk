@@ -8,4 +8,4 @@ I'm a person with a big passion to develop, with these projects you will see som
 
 ## My contacts
 
-<a href="https://twitter.com/danielalexer" rel="some text">![twitter](https://github.com/danielchk/danielchk/blob/main/twitter.png)</a> ![Gmail](https://github.com/danielchk/danielchk/blob/main/gmail.png) ![face](https://github.com/danielchk/danielchk/blob/main/Face.png) ![linkedin](https://github.com/danielchk/danielchk/blob/main/linkedin.png)
+<a href="https://twitter.com/danielalexer" rel="some text">![twitter](https://github.com/danielchk/danielchk/blob/main/twitter.png)</a> <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" rel="some text">![Gmail](https://github.com/danielchk/danielchk/blob/main/gmail.png)</a> <a href="https://www.facebook.com/daniel.chick.7739" rel="some text">![face](https://github.com/danielchk/danielchk/blob/main/Face.png)</a> <a href="https://www.linkedin.com/in/danielalexanderchicaecheverri/" rel="some text">![linkedin](https://github.com/danielchk/danielchk/blob/main/linkedin.png)</a>
